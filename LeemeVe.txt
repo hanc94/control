@@ -1,0 +1,11 @@
+dinint.slx: control doble integrador con parámetros constantes para las ganancias de retrolimentación
+
+dinintoc.slx: doble integrador con observador de estados
+
+dobintob.m: parametros para los archivos anteriores (correr antes)
+
+dintdis.slx: control del doble integrador discretos con dos tipos de observadores de estado discrestos y con acción integral.
+
+dobintd.m: diseño detallado del control del doble integrador implementado en el archivo anterior.
+
+reafer...: archivos con ejemplos de linealización usando matemática simbolica 
